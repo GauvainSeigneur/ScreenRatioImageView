@@ -5,11 +5,11 @@ An extend of ImageView Class which has two parameters which allows to set height
 
 In this screenshot, the ImageView has these parameters :
 
-<com.example.gauvain.screenratioimageview.ScreenRatioImageView
+"<com.example.gauvain.screenratioimageview.ScreenRatioImageView
     android:src="@drawable/solo_cover_13"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
     android:scaleType="centerCrop"
     custom:ScreenWidthPercent="50"
-    custom:ScreenHeightPercent="75"/>
+    custom:ScreenHeightPercent="75"/>"
 
